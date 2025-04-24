@@ -37,6 +37,4 @@ This project demonstrates basic SQL data analysis techniques using a sample e-co
 2. Load and run queries from `data_analysis.sql` using the "Execute SQL" tab.
 3. Review outputs or extend the analysis as needed.
 
----
 
-Feel free to explore or modify the queries to learn more!
